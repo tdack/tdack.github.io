@@ -1,0 +1,12 @@
+# Site settings
+title: Troy's GitHub Repositories
+email: troy@dack.com.au
+description: >
+  Troy Dack's repositories hosted on http://github.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://github.dack.com.au" # the base hostname & protocol for your site
+twitter_username: tdack
+github_username:  tdack
+
+# Build settings
+markdown: kramdown
