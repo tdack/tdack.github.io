@@ -10,3 +10,5 @@ github_username:  tdack
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
